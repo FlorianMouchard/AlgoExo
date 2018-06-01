@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace AlgoExo
 {
+    /// <summary>
+    /// Représent une ligne d'un menu
+    /// </summary>    
     public class Menu
     {
         public int Numero { get; set; }
